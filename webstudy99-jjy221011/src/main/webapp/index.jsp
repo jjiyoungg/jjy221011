@@ -14,7 +14,7 @@
 </head>
 <body>
 <div class="container pt-3">
-git study index 
+git study index 추가작업2
 </div>
 </body>
 </html>
